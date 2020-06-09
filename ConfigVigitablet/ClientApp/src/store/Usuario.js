@@ -1,0 +1,23 @@
+﻿export const defaultUsuario = {
+    Id: 0,
+    NombreCompleto: '',
+    IdPersona: 0,
+    Email: '',
+    ClaveUsuario: '',
+    IdEstadoUsuario: 0,
+    EstadoUsuario: '',
+    FechaCambioEstatus: '',
+    FechaUltimaConexion: '',
+    IdTipoUsuario: 0,
+    TipoUsuario: '',
+    UsuarioWeb: '',
+    PrimeraVez: '',
+    Pregunta1: '',
+    Respuesta1: '',
+    Pregunta2: '',
+    Respuesta2: '',
+    Pregunta3: '',
+    Respuesta3: '',
+    Vacaciones: false,
+    IdUsuarioCrea: 0
+};
